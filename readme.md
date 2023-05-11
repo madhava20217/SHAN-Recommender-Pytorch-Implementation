@@ -25,7 +25,7 @@ Changes from the original paper:
 
 <p float="middle">
   <img src="Plots/SHAN%20Precision%20on%20Gowalla%20dataset.png" width="400" />
-  <img src="Plots/SHAN%20Recall%20on%20Gowalla%20Dataset.png" width="400" /> 
+  <img src="Plots/SHAN%20Recall%20on%20Gowalla%20dataset.png" width="400" /> 
 </p>
 
 2. Amazon dataset
@@ -41,7 +41,7 @@ Changes from the original paper:
 
 <p float="middle">
   <img src="Plots/SHAN%20Precision%20on%20Amazon-Books%20dataset.png" width="400" />
-  <img src="Plots/SHAN%20Recall%20on%20Amazon-Books%20Dataset.png" width="400" /> 
+  <img src="Plots/SHAN%20Recall%20on%20Amazon-Books%20dataset.png" width="400" /> 
 </p>
 
 1. MovieLens20M dataset
