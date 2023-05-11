@@ -24,8 +24,8 @@ Changes from the original paper:
 | **100**               |         0.41639 |         0.14046 |          0.07482 |      0.08212 |      0.13366 |       0.14157 |
 
 <p float="middle">
-  <img src="Plots/SHAN%20Precision%20on%20Gowalla%20dataset.png" width="400" />
-  <img src="Plots/SHAN%20Recall%20on%20Gowalla%20dataset.png" width="400" /> 
+  <img src="Plots/SHAN%20Precision%20on%20Gowalla%20Dataset.png" width="400" />
+  <img src="Plots/SHAN%20Recall%20on%20Gowalla%20Dataset.png" width="400" /> 
 </p>
 
 2. Amazon dataset
